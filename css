@@ -1,4 +1,3 @@
-
 body {
 		background-color: #d2b48c;
 		margin-left: 20%;
@@ -8,7 +7,30 @@ body {
 		font-family: sans-serif;
 }
 
+
 p {
 	background-position: center;
 }
 
+
+#quote {
+	border-style: solid;
+	border-width: 5px;
+	border-color: blue;
+	margin: 0px 50px 0px 200px;
+}
+
+
+#twit {
+	margin: 0px 50px 0px 200px;
+}
+
+
+#tumb {
+	margin: 0px 50px 0px 200px;
+}
+
+
+#newQuote {
+	margin: 0px 50px 0px 200px;
+}
